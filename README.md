@@ -1,5 +1,5 @@
-**Prodigy InfoTech Data Science Internship Task 1:
-**
+**Prodigy InfoTech Data Science Internship Task 1:**
+
 Welcome to my submission for Task 5 of the Data Science Internship at Prodigy InfoTech.In this task, I have analyzed traffic accident data to uncover patterns related to road conditions, weather, and time of day. The objective was to gain actionable insights and visualize accident hotspots and contributing factors.
 
 **🔍 Objective:**
